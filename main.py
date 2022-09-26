@@ -12,7 +12,7 @@ def hello():
         lists += f"<li>{i}</li>"
     return f"<ol>{lists}</ol>"
 
-# ссылка на гитхаб с этим кодом: 
+# ссылка на гитхаб с этим кодом: https://github.com/Dimash357/Flask-homework
 
 
 if __name__ == "__main__":
